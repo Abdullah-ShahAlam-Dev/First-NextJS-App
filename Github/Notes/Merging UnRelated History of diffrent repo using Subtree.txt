@@ -1,0 +1,10 @@
+For Merging 2 repo of diffrent history
+git pull https://github.com/Abdullah-ShahAlam-Dev/advance-github.git main --allow-unrelated-histories --strategy=subtree -Xsubtree=Github/advance-github
+
+
+creating temprory bracnh for force push
+git subtree split --prefix="Github/advance-github" -b temp-branch
+
+git push -f https://github.com/Abdullah-ShahAlam-Dev/advance-github.git temp-branch:feature/navbar
+
+git branch -D temp-branch
