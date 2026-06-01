@@ -1,4 +1,4 @@
-FOR UNSTAGE or Restore a Files after Add before commit
+FOR UNSTAGE or Restore a Files after 'Add' before 'commit'
 
 -- = commit mat chherna, sirf file treat karna
 

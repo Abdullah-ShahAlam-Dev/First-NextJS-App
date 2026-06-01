@@ -1,0 +1,6 @@
+1. The "Force Pull" Concept (You are absolutely right!)
+Tumne bilkul theek pakra ke normal git pull tab kaam ata hai jab repo pehle se sync ho aur usko update karna ho.
+
+Lekin jab hum git pull ... --allow-unrelated-histories --strategy=subtree lagate hain, toh hum Git ko force kar rahe hote hain ke "Sync mojood nahi hai, lekin tum zabardasti in do alag duniyaon ko aapas mein jor kar ek link bana do."
+
+Isliye haan, README bachane ke liye yehi sab se best aur final tareeqa sabit hua hai.

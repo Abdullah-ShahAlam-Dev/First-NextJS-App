@@ -1,7 +1,7 @@
 Advance Github
 Branches
-PR
-PR review
+PR Pull Request
+PR review by Project owner/team lead Repo creator jo main pr merged kreega after review
 Merge
 Rebase
 Cherry Pick
