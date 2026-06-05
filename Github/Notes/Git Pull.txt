@@ -4,6 +4,7 @@ git fetch → remote Repo ki latest info download karta hai, merge nhi krta
 
 
 
+
 git diff → wo info compare karta hai
 git diff --name-status HEAD..origin/main
 

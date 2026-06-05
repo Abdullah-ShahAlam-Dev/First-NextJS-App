@@ -3,3 +3,6 @@ eg accidentally delete commit hugya hu
 so, use this
 
 git reset HEAD~1
+
+
+kbhi bhi hard ki sth nhi chalana wrna tracked modified files bhi reset hu kr folder se delete hjyeege

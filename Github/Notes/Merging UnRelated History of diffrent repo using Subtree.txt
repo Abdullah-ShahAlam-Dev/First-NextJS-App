@@ -17,6 +17,7 @@ Asal mein --allow-unrelated-histories normal git pull mein kaam karta hai, lekin
 
 
 
+
 now ye mixed history foce pushh se remote pr bhi sink krdenge REMOTELY,
 For Merging 2 repo of diffrent history
 git pull https://github.com/Abdullah-ShahAlam-Dev/advance-github.git main --allow-unrelated-histories --strategy=subtree -Xsubtree=Github/advance-github

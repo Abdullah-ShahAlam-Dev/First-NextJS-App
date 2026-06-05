@@ -10,6 +10,7 @@ simpliy, we can
 git mv oldpathfile.pdf newpathfile.pdf
 for instance,
 
+
 git mv git-cheat-sheet-education.pdf SMIT-BATCH-17/Github/git-cheat-sheet-education.pdf
 git commit -m "Moved file"
 git push

@@ -14,4 +14,5 @@ Subtree hamesha pehli dafa nakhre karta hai agar GitHub par repo banate waqt aap
 
 Kyunke ab Hashes match nahi kar rahe, toh is block ko torrne ka wahid rasta yahi hai ke hum ek dafa Force Push (Hathora) chala kar GitHub ki us purani history ko overwrite kar dein.
 
+
 Sirf ek dafa yeh force push lagega, uske baad GitHub aur aapka PC ek page par aa jayenge aur sari zindagi aapki .sh script bilkul "tameez se" normal push karegi!
